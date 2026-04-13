@@ -1,49 +1,49 @@
 <script lang="ts">
 import { ref } from 'vue'
+import INFO from './info.txt'
 
 export default {
   name: 'App',
   data() {
     return {
-      count: ref(0)
+      count: ref(0),
+      INFO,
     }
   },
   mounted() {
-    console.error(123, 3455)
+    console.log('info.txt 内容:', INFO)
+    console.error(123, 34515)
   }
 }
 </script>
 
 <template>
   <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="./vite.svg" class="logo" alt="Vue logo" />
+    <a href="https://github.com/user/lite-vite" target="_blank">
+      <img src="./vite.svg" class="logo" alt="Lite Vite logo" />
     </a>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <h1>Vue + Vue</h1>
+  <h1>Vue + TS (Lite Vite)</h1>
+  <p class="info-text">{{ INFO }}</p>
 
   <div class="card">
     <button type="button" @click="count++">count is {{ count }}</button>
   </div>
 
   <p>
-    Check out
-    <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank"
-      >create-vue</a
-    >, the official Vue + Vue starter
+    由
+    <a href="https://github.com/user/lite-vite" target="_blank">Lite Vite</a>
+    驱动的 Vue 3 + TypeScript 项目
   </p>
   <p>
-    Learn more about IDE Support for Vue in the
-    <a
-      href="https://vuejs.org/guide/scaling-up/tooling.html#ide-support"
-      target="_blank"
-      >Vue Docs Scaling up Guide</a
-    >.
+    查看
+    <a href="https://vuejs.org/guide/scaling-up/tooling.html#ide-support" target="_blank">Vue 文档</a>
+    了解更多
   </p>
-  <p class="read-the-docs">Click on the Vue and Vue logos to learn more</p>
+  <p class="read-the-docs">点击 Logo 了解更多</p>
 </template>
 
 <style scoped>
@@ -61,5 +61,10 @@ export default {
 }
 .read-the-docs {
   color: #888;
+}
+.info-text {
+  color: #94a3b8;
+  font-size: 14px;
+  font-style: italic;
 }
 </style>

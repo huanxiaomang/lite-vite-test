@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "id": 1776069611265,
+      "timestamp": "2026/4/13 16:40:11",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 192569
+        }
+      ],
+      "totalSize": 192569,
+      "jsSize": 192569,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 456,
+      "fileCount": 1,
+      "moduleCount": 13
+    },
+    {
+      "id": 1776069631960,
+      "timestamp": "2026/4/13 16:40:31",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 192018
+        }
+      ],
+      "totalSize": 192018,
+      "jsSize": 192018,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 460,
+      "fileCount": 1,
+      "moduleCount": 13
+    },
+    {
+      "id": 1776069966048,
+      "timestamp": "2026/4/13 16:46:06",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 192018
+        }
+      ],
+      "totalSize": 192018,
+      "jsSize": 192018,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 481,
+      "fileCount": 1,
+      "moduleCount": 13
+    },
+    {
+      "id": 1776071475314,
+      "timestamp": "2026/4/13 17:11:15",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 192113
+        }
+      ],
+      "totalSize": 192113,
+      "jsSize": 192113,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 391,
+      "fileCount": 1,
+      "moduleCount": 13
+    },
+    {
+      "id": 1776071763629,
+      "timestamp": "2026/4/13 17:16:03",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 192113
+        }
+      ],
+      "totalSize": 192113,
+      "jsSize": 192113,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 402,
+      "fileCount": 1,
+      "moduleCount": 13
+    },
+    {
+      "id": 1776071779871,
+      "timestamp": "2026/4/13 17:16:19",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 192113
+        }
+      ],
+      "totalSize": 192113,
+      "jsSize": 192113,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 371,
+      "fileCount": 1,
+      "moduleCount": 13
+    },
+    {
+      "id": 1776071801490,
+      "timestamp": "2026/4/13 17:16:41",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 192113
+        }
+      ],
+      "totalSize": 192113,
+      "jsSize": 192113,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 374,
+      "fileCount": 1,
+      "moduleCount": 13
+    },
+    {
+      "id": 1776072859607,
+      "timestamp": "2026/4/13 17:34:19",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 214
+        }
+      ],
+      "totalSize": 214,
+      "jsSize": 214,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 331,
+      "fileCount": 1,
+      "moduleCount": 1
+    }
+  ]
+}
