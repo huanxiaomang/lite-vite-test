@@ -211,6 +211,78 @@
       "buildTimeMs": 77,
       "fileCount": 1,
       "moduleCount": 1
+    },
+    {
+      "id": 1776075207595,
+      "timestamp": "2026/4/13 18:13:27",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 1137
+        }
+      ],
+      "totalSize": 1137,
+      "jsSize": 1137,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 87,
+      "fileCount": 1,
+      "moduleCount": 1
+    },
+    {
+      "id": 1776075356933,
+      "timestamp": "2026/4/13 18:15:56",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 526952
+        }
+      ],
+      "totalSize": 526952,
+      "jsSize": 526952,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 802,
+      "fileCount": 1,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776075387516,
+      "timestamp": "2026/4/13 18:16:27",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 526952
+        }
+      ],
+      "totalSize": 526952,
+      "jsSize": 526952,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 655,
+      "fileCount": 1,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776075406579,
+      "timestamp": "2026/4/13 18:16:46",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        }
+      ],
+      "totalSize": 1432129,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 946816,
+      "buildTimeMs": 677,
+      "fileCount": 2,
+      "moduleCount": 107
     }
   ]
 }

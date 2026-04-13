@@ -135,6 +135,40 @@
       "buildTimeMs": 331,
       "fileCount": 1,
       "moduleCount": 1
+    },
+    {
+      "id": 1776075209813,
+      "timestamp": "2026/4/13 18:13:29",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 214
+        }
+      ],
+      "totalSize": 214,
+      "jsSize": 214,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 147,
+      "fileCount": 1,
+      "moduleCount": 1
+    },
+    {
+      "id": 1776075390935,
+      "timestamp": "2026/4/13 18:16:30",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 88662
+        }
+      ],
+      "totalSize": 88662,
+      "jsSize": 88662,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 581,
+      "fileCount": 1,
+      "moduleCount": 14
     }
   ]
 }
