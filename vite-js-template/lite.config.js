@@ -1,3 +1,6 @@
+import cleanDist from "../plugin-clean-dist/dist/index.js";
+import startReport from "../plugin-start-report/dist/index.js";
+
 export default {
   port: 4000,
   sourcemap: true,
@@ -6,15 +9,5 @@ export default {
     outdir: "dist",
     minify: true,
   },
-  plugins: [
-    {
-      name: "clean-dist",
-      buildStart() {
-        console.log("[clean-dist] 🧹 构建开始，dist 目录将被清理");
-      },
-      buildEnd() {
-        console.log("[clean-dist] ✅ 构建完成");
-      },
-    },
-  ],
+  plugins: [cleanDist, startReport],
 };

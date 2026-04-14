@@ -1,6 +1,6 @@
-
-import cleanDist from "./plugins/clean-dist";
-import txtLoader from "./plugins/txt-loader";
+import cleanDist from "../lite-plugin-clean-dist/dist/index.js";
+import txtLoader from "../lite-plugin-txt-loader/dist/index.js";
+import startReport from "../lite-plugin-start-report/dist/index.js";
 
 export default {
   port: 3001,
@@ -14,5 +14,5 @@ export default {
     outdir: "dist",
     minify: true,
   },
-  plugins: [cleanDist, txtLoader],
+  plugins: [cleanDist, txtLoader, startReport],
 };

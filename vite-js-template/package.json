@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "lite-vite dev",
-    "build": "lite-vite build"
+    "build": "lite-vite build",
+    "report": "lite-vite report"
   },
   "dependencies": {
     "lodash-es": "^4.17.21",

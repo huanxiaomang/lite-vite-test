@@ -5,12 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "lite-vite dev -p 3001",
-    "build": "lite-vite build"
+    "build": "lite-vite build",
+    "report": "lite-vite report"
   },
   "dependencies": {
     "vue": "^3.5.13"
   },
   "devDependencies": {
+    "@types/node": "^25.6.0",
     "@vue/tsconfig": "^0.7.0",
     "typescript": "~5.7.2",
     "vue-tsc": "^2.2.4"

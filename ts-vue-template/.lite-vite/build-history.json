@@ -169,6 +169,150 @@
       "buildTimeMs": 581,
       "fileCount": 1,
       "moduleCount": 14
+    },
+    {
+      "id": 1776134351587,
+      "timestamp": "2026/4/14 10:39:11",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 88662
+        }
+      ],
+      "totalSize": 88662,
+      "jsSize": 88662,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 825,
+      "fileCount": 1,
+      "moduleCount": 14
+    },
+    {
+      "id": 1776134380408,
+      "timestamp": "2026/4/14 10:39:40",
+      "files": [
+        {
+          "name": "index.html",
+          "size": 357
+        },
+        {
+          "name": "main.js",
+          "size": 88662
+        },
+        {
+          "name": "vite.svg",
+          "size": 1497
+        }
+      ],
+      "totalSize": 90516,
+      "jsSize": 88662,
+      "cssSize": 0,
+      "otherSize": 1854,
+      "buildTimeMs": 1,
+      "fileCount": 3,
+      "moduleCount": 0
+    },
+    {
+      "id": 1776134984615,
+      "timestamp": "2026/4/14 10:49:44",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 88662
+        }
+      ],
+      "totalSize": 88662,
+      "jsSize": 88662,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 419,
+      "fileCount": 1,
+      "moduleCount": 14
+    },
+    {
+      "id": 1776135213068,
+      "timestamp": "2026/4/14 10:53:33",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 88662
+        }
+      ],
+      "totalSize": 88662,
+      "jsSize": 88662,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 425,
+      "fileCount": 1,
+      "moduleCount": 14
+    },
+    {
+      "id": 1776135564620,
+      "timestamp": "2026/4/14 10:59:24",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 88662
+        }
+      ],
+      "totalSize": 88662,
+      "jsSize": 88662,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 514,
+      "fileCount": 1,
+      "moduleCount": 14
+    },
+    {
+      "id": 1776135803019,
+      "timestamp": "2026/4/14 11:03:23",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 88662
+        }
+      ],
+      "totalSize": 88662,
+      "jsSize": 88662,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 414,
+      "fileCount": 1,
+      "moduleCount": 14
+    },
+    {
+      "id": 1776135815800,
+      "timestamp": "2026/4/14 11:03:35",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 88662
+        }
+      ],
+      "totalSize": 88662,
+      "jsSize": 88662,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 398,
+      "fileCount": 1,
+      "moduleCount": 14
+    },
+    {
+      "id": 1776135873195,
+      "timestamp": "2026/4/14 11:04:33",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 88662
+        }
+      ],
+      "totalSize": 88662,
+      "jsSize": 88662,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 429,
+      "fileCount": 1,
+      "moduleCount": 14
     }
   ]
 }

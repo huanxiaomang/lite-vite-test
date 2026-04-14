@@ -283,6 +283,157 @@
       "buildTimeMs": 677,
       "fileCount": 2,
       "moduleCount": 107
+    },
+    {
+      "id": 1776134282585,
+      "timestamp": "2026/4/14 10:38:02",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 526952
+        }
+      ],
+      "totalSize": 526952,
+      "jsSize": 526952,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 601,
+      "fileCount": 1,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776134319635,
+      "timestamp": "2026/4/14 10:38:39",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        }
+      ],
+      "totalSize": 1432129,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 946816,
+      "buildTimeMs": 889,
+      "fileCount": 2,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776134341357,
+      "timestamp": "2026/4/14 10:39:01",
+      "files": [
+        {
+          "name": "index.html",
+          "size": 351
+        },
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        },
+        {
+          "name": "vite.svg",
+          "size": 1497
+        }
+      ],
+      "totalSize": 1433977,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 948664,
+      "buildTimeMs": 2,
+      "fileCount": 4,
+      "moduleCount": 0
+    },
+    {
+      "id": 1776135000629,
+      "timestamp": "2026/4/14 10:50:00",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        }
+      ],
+      "totalSize": 1432129,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 946816,
+      "buildTimeMs": 644,
+      "fileCount": 2,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776135239623,
+      "timestamp": "2026/4/14 10:53:59",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        }
+      ],
+      "totalSize": 1432129,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 946816,
+      "buildTimeMs": 696,
+      "fileCount": 2,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776135564976,
+      "timestamp": "2026/4/14 10:59:24",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        }
+      ],
+      "totalSize": 1432129,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 946816,
+      "buildTimeMs": 753,
+      "fileCount": 2,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776135797543,
+      "timestamp": "2026/4/14 11:03:17",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        }
+      ],
+      "totalSize": 1432129,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 946816,
+      "buildTimeMs": 658,
+      "fileCount": 2,
+      "moduleCount": 107
     }
   ]
 }
