@@ -1,5 +1,5 @@
-import cleanDist from "../plugin-clean-dist/dist/index.js";
-import startReport from "../plugin-start-report/dist/index.js";
+import cleanDist from "../lite-plugin-clean-dist/dist/index.js";
+import startReport from "../lite-plugin-start-report/dist/index.js";
 
 export default {
   port: 4000,

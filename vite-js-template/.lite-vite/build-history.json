@@ -434,6 +434,103 @@
       "buildTimeMs": 658,
       "fileCount": 2,
       "moduleCount": 107
+    },
+    {
+      "id": 1776138254472,
+      "timestamp": "2026/4/14 11:44:14",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 526952
+        }
+      ],
+      "totalSize": 526952,
+      "jsSize": 526952,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 572,
+      "fileCount": 1,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776138293881,
+      "timestamp": "2026/4/14 11:44:53",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 526952
+        }
+      ],
+      "totalSize": 526952,
+      "jsSize": 526952,
+      "cssSize": 0,
+      "otherSize": 0,
+      "buildTimeMs": 606,
+      "fileCount": 1,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776138344768,
+      "timestamp": "2026/4/14 11:45:44",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        }
+      ],
+      "totalSize": 1432129,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 946816,
+      "buildTimeMs": 762,
+      "fileCount": 2,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776156317686,
+      "timestamp": "2026/4/14 16:45:17",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        }
+      ],
+      "totalSize": 1432129,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 946816,
+      "buildTimeMs": 734,
+      "fileCount": 2,
+      "moduleCount": 107
+    },
+    {
+      "id": 1776156494195,
+      "timestamp": "2026/4/14 16:48:14",
+      "files": [
+        {
+          "name": "main.js",
+          "size": 485313
+        },
+        {
+          "name": "main.js.map",
+          "size": 946816
+        }
+      ],
+      "totalSize": 1432129,
+      "jsSize": 485313,
+      "cssSize": 0,
+      "otherSize": 946816,
+      "buildTimeMs": 681,
+      "fileCount": 2,
+      "moduleCount": 107
     }
   ]
 }
